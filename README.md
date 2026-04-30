@@ -3,3 +3,8 @@ about me
 *I am Serge*
 *I am 15*
 *I study at ntare Louisenlund*
+# My Goals
+--Understanding Github
+ -Getting better at coding
+ -Keeping up with studies
+ -Build an app
