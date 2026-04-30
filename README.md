@@ -5,3 +5,4 @@ about me
 *I study at ntare Louisenlund*
 # My Goals
 ✅Understanding Github
+✅Getting better at coding
