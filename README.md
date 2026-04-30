@@ -8,4 +8,8 @@ about me
 ✅Getting better at coding
 ✅Getting better at coding
 ✅Build an app
-.
+
+# My hobbies
+- Playing football
+- Coding
+- Playing video game
